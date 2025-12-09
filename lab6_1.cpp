@@ -13,7 +13,7 @@ int main(){
         even++;
       }else{odd++;}
     }
-    cout << "#Even numbers = " << even;
+    cout << "#Even numbers = " << even << "\n";
     cout << "#Odd numbers = " << odd;
     return 0;
 }
